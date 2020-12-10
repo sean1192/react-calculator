@@ -1,0 +1,5 @@
+npx create-react-app [projectName]
+
+cd [projectName]
+
+

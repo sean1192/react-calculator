@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Major+Mono+Display&display=swap');
+
+.container {
+    width: 300px;
+    background-color: black;
+    border: solid black 5px;
+    margin-top: 15%;
+    padding-bottom: 10px;
+    box-shadow: 5px 10px rgba(0,0,0,0.5);
+    border-radius: 5px;
+    font-family: 'Cutive Mono', monospace;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.results {
+    text-align: right;
+    color: orange;
+    width: 100%;
+}
+
+.expression {
+    height: 15px;
+    font-size: 15px;
+}
+
+.smallButton {
+    width: 100%;
+    border: solid black 1px;
+}
+
+.tallButton {
+    height: 200%;
+    width: 100%;
+    border: solid black 1px;
+}
